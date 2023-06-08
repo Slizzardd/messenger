@@ -1,5 +1,6 @@
 .color {
     -fx-background-color: #999999;
+    -fx-border-color: black;
 }
 
 .color:hover{

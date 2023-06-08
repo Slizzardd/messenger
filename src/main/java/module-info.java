@@ -3,6 +3,7 @@ module com.example.messenger_nure {
     requires javafx.fxml;
     requires java.sql;
     requires mysql.connector.j;
+    requires commons.codec;
 
 
     opens ua.com.alevel.messenger_nure to javafx.fxml;
